@@ -1,0 +1,1 @@
+You rush towards Retinazer, dodging Spazmatizm's flames with ease, but at the last second you takea  hit to the arm from Retinazer's laser.  A little hurt, you take flight and begin to use your amrok to put a debuff on him, and aim your and start slashing Retinazer at quick pace. [Retinazer](./scene1A2a.md)/[Spazmatizm](./scene1A2b.md)

@@ -1,6 +1,6 @@
 # Melee
 
-Hello, You have chosen the Melee class. The choices of melee weapons you have are: Night's Edge: Swings in an arc. Deals 30 damage. Bananarang: Throws 10 rangs at a high speed. Deals 45 Damage each rang. Amarok: A yoyo Type weapon conected to a string. Deals 43 damage. It inflicts a debuff called Frostbite which has a 63% chance of activating and does 25 damage but only last 2-5 seconds.
+Hello, You have chosen the Melee class. The Night's Edge with its big slash will surley take down these bosses. Bananarang Its fast pace slippery bananas will have a great effect of it (great source of potassium). Amrok a yoyo that has a chilling precence, forge in the icy depths of the tundra (wear mittens its cold to hold.)
 
 The armor and Acessories you have will consist of Frost armor, Melee emblem, Beserker Glove, Terra /spark Boots, Pixie Wings.
 

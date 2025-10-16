@@ -1,0 +1,3 @@
+# Range
+
+Welcome this is the Range class. Range is doing very high dps from far away. You have a few choices of Range weapons which are: Daedalus Stormbow: It shoots a rain arrows from the sky onto enemies. The 3 arrows it shoots deal 38 damagage each. Adamantite Repeater: Shoots very quick in a straight line. Deals 42 damage each arrow. Onxy Blaster: Strong shotgun that shoots 4 bullets. Shoots a explosive projectile that does 48 damage. Each shotgun bullet does 24 damage.

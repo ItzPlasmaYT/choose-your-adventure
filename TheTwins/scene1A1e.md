@@ -1,0 +1,1 @@
+You take spazmatism head on Night's Edge in hand. With one swift slash you abrubtly see Retinazer get engraged as spazmatism has fallen
